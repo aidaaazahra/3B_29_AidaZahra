@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cab06d8caade9484eeb89"
+  },
+  "warna": "Putih",
+  "tahun": 2022,
+  "harga_sewa_per_hari": "400000",
+  "status": "Tersedia"
+}]

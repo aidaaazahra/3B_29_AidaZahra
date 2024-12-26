@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "676caa8ed8caade9484eeb88"
+  },
+  "id_mobil": "MB001",
+  "nama_mobil": "Toyota Avanza",
+  "jenis": "MPV",
+  "kapasitas": "7",
+  "warna": "Putih",
+  "tahun": "2022",
+  "harga_sewa_per_hari": "400000",
+  "status": "Tersedia"
+}]

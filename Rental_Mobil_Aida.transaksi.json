@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "676cac50d8caade9484eeb8a"
+  },
+  "id_transaksi": "TRX001",
+  "id_mobil": "MB002",
+  "penyewa": {
+    "nama": "Yusuf Ghozin",
+    "nomor_telepon": "+6281356781234",
+    "tanggal_selesai": "2024-12-25",
+    "total_harga": 1500000,
+    "status": "Selesai"
+  }
+}]
